@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "EssenceOverlay",
+    theme: "EssenceOverlay",
+    sdk_version: "current",
+    vendor: true,
+}
